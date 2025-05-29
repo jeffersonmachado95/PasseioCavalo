@@ -1,4 +1,4 @@
-# 🐴 Passeio do Cavalo (Knight's Tour)
+# 🐴 Passeio do Cavalo
 
 Este projeto implementa a solução para o clássico problema do **Passeio do Cavalo** utilizando **Backtracking**, conforme as regras do movimento do cavalo no xadrez.
 
